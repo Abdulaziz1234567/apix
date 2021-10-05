@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Futura New';
+    src: url('FuturaNewLight-Reg.eot');
+    src: local('Futura New Light Reg'), local('FuturaNewLight-Reg'),
+        url('FuturaNewLight-Reg.eot?#iefix') format('embedded-opentype'),
+        url('FuturaNewLight-Reg.woff2') format('woff2'),
+        url('FuturaNewLight-Reg.woff') format('woff'),
+        url('FuturaNewLight-Reg.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Garamond-Premier-Pro';
+    src: url(../fonts/Garamond-Premier-Pro_19595.ttf);
+}
+
+@font-face {
+    font-family: 'BazhanovC';
+    src: url(../fonts/BazhanovC.ttf);
+}
